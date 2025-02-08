@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Paper Art Game</title>
-    <script src="ruffle.js"></script>
+    <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
 </head>
 <body>
     <h1>Play Paper Art Online</h1>
@@ -13,8 +13,8 @@
         window.addEventListener("DOMContentLoaded", () => {
             const ruffle = window.RufflePlayer.newest();
             const player = ruffle.createPlayer();
-            player.style.width = "800px";
-            player.style.height = "600px";
+            player.style.width = "100%";
+            player.style.height = "100%";
             document.body.appendChild(player);
             player.load("paperart.swf");
         });
