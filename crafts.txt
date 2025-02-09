@@ -1,0 +1,39 @@
+crafts/new1.jpg^<b>Paper Purses </b>  An old design with a new shoe tag.^crafts/icons/new1.jpg
+crafts/new2.jpg^<b>Shoe Tags </b>  I was commissioned 20 purses for a party, these are the tags.^crafts/icons/new2.jpg
+crafts/new3.jpg^<b>Shoe Sushi </b>  More Show tags for the paper purses.^crafts/icons/new3.jpg
+crafts/new4.jpg^<b>Prayer Box </b> <br>A commissioned piece for a house warming gift. The house has an opening in the back to place a prayer inside. ^crafts/icons/new4.jpg
+crafts/new5.jpg^<b>Cubic Roses </b>  Inspired by the work of Picasso.^crafts/icons/new5.jpg
+crafts/new6.jpg^<b>High Heel Ornaments </b>  Wired ribbon adds whimsy and elegance to this design.^crafts/icons/new6.jpg
+crafts/kids1.jpg^<b>Blue Creature </b> <br>I designed this creature for a workshop at the Children's Museum of Manhattan.^crafts/icons/kids1.jpg
+crafts/kids2.jpg^<b>Blue Creature </b> <br>Another creature for the workshop at the Children's Museum of Manhattan.^crafts/icons/kids2.jpg
+crafts/general1.jpg^<b>Paper Fruit </b>  These miniature are easy to make by cutting and gluing paper silhouettes.^crafts/icons/general1.jpg
+crafts/general2.jpg^<b>Paper Topiary </b> <br>A great way to recycled an old, bad book.^crafts/icons/general2.jpg
+crafts/general3.jpg^<b>Pineapple </b> <br>This piece is made out of painted construction paper.^crafts/icons/general3.jpg
+crafts/general4.jpg^<b>Paper Spheres </b>  The perfect ornament for all seasons and ocassions.^crafts/icons/general4.jpg
+crafts/general5.jpg^<b>Wire Basket </b>  From time to time I like using other mediums, like wire.^crafts/icons/general5.jpg
+crafts/general6.jpg^<b>More Paper Purses </b>  You could buy the template for this project at shop.^crafts/icons/general6.jpg
+crafts/general7.jpg^<b>Colonial Village </b>  Inspired by a trip to Colonial Williamsburg.^crafts/icons/general7.jpg
+crafts/general8.jpg^<b>Flower and Butterfly </b> <br>Experimenting with pleaded paper^crafts/icons/general8.jpg
+crafts/general9.jpg^<b>Origami Paper Flower </b>  I like the intricate design and use of mettalic inks of these papers.^crafts/icons/general9.jpg
+crafts/general10.jpg^<b>Gardenia Card </b> <br>This card was designed as a wedding invitation. All of the invitations were handmade.^crafts/icons/general10.jpg
+crafts/halloween1.jpg^<b>Ghosts </b>  I like the simplicity of these silouettes.^crafts/icons/halloween1.jpg
+crafts/halloween2.jpg^<b>Ghosts </b> <br>I like the simplicity of these silouettes.^crafts/icons/halloween2.jpg
+crafts/halloween3.jpg^<b>Ghosts in the Window </b> <br>Take a look a the tutorial for this project.^crafts/icons/halloween3.jpg
+crafts/halloween4.jpg^<b>Witch Bobbing Head </b> <br>The basic shape fo this project is a paper cup.^crafts/icons/halloween4.jpg
+crafts/halloween5.jpg^<b>Jack O'Lantern Bobbing Head </b> <br>Watch the step by step tutorial.^crafts/icons/halloween5.jpg
+crafts/halloween6.jpg^<b>Paper Lanterns </b> <br>A nice and simple family project.^crafts/icons/halloween6.jpg
+crafts/halloween7.jpg^<b>Itsy Spiders </b> <br>I take less than 3 mins to make one of this cute critters^crafts/icons/halloween7.jpg
+crafts/halloween8.jpg^<b>D’a de Los Muertos </b> <br>A prototype for the Day of the Dead festivities^crafts/icons/halloween8.jpg
+crafts/thanksgiving1.jpg^<b>Thanksgiving Feast </b> <br>Paper crafts for this Autumn celebration.^crafts/icons/thanksgiving1.jpg
+crafts/thanksgiving2.jpg^<b>Paper Pumpkin </b>  A cardboard structure gives shape to this gourd.^crafts/icons/thanksgiving2.jpg
+crafts/thanksgiving3.jpg^<b>Pumpkin Name Tag </b>  The use of different tones of orange adds interest to tablescape. ^crafts/icons/thanksgiving3.jpg
+crafts/thanksgiving4.jpg^<b>Autumn Leaves </b>  It's impossible to make a mistake in this project.^crafts/icons/thanksgiving4.jpg
+crafts/thanksgiving5.jpg^<b>Autumn Centerpiece </b>  Inspired by the artichoke this design uses a fallen branch as support.^crafts/icons/thanksgiving5.jpg
+crafts/xmas1.jpg^<b>Santa's Doll </b> <br>I created this project as a way to make a simpler paper doll.^crafts/icons/xmas1.jpg
+crafts/xmas2.jpg^<b>Multicultural Santa </b>  Christmas spirit across cultures.^crafts/icons/xmas2.jpg
+crafts/xmas3.jpg^<b>High Heel Tree </b>  The shoes are made of paper and self-adhesive ribbon.^crafts/icons/xmas3.jpg
+crafts/xmas4.jpg^<b>Wire and Paper Christmas Tree </b> <br>This tree uses two of my favorite materials: paper and wire.^crafts/icons/xmas4.jpg
+crafts/xmas5.jpg^<b>Tree Topper </b> <br>This piece was made from recycled folders and painted paper towels.^crafts/icons/xmas5.jpg
+crafts/xmas6.jpg^<b>Double Diamond Ornament </b>  A three-sided paper ornament, easily made from a template.^crafts/icons/xmas6.jpg
+crafts/xmas7.jpg^<b>Pleaded Gift Wrapping </b>  This was the trademark wrapping of one of my hometown pharmacies.^crafts/icons/xmas7.jpg
+crafts/valentine1.jpg^<b>Sweet Hearts </b>  Another easy project, bon bon pouches.^crafts/icons/valentine1.jpg
