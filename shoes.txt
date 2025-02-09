@@ -1,0 +1,58 @@
+shoes/ALDO2-1.jpg^<b>Yellow/Orange</b> <br>This paper shoe is life-size, 10in x 5in. It will be part of a large installation of about 220 shoes.^shoes/icons/ALDO2-1.jpg
+shoes/ALDO2-2.jpg^<b>Yellow/Orange</b> <br>This paper shoe is life-size, 10in x 5in. It will be part of a large installation of about 220 shoes.^shoes/icons/ALDO2-2.jpg
+shoes/ALDO3-1.jpg^<b>Pink/Fushia</b> <br>This paper shoe is life-size, 10in x 5in. It will be part of a large installation of about 220 shoes.^shoes/icons/ALDO3-1.jpg
+shoes/ALDO3-2.jpg^<b>Pink/Fushia</b> <br>This paper shoe is life-size, 10in x 5in. It will be part of a large installation of about 220 shoes.^shoes/icons/ALDO3-2.jpg
+shoes/ALDO1-1.jpg^<b>Green/Blue</b> <br>This paper shoe is life-size, 10in x 5in. It will be part of a large installation of about 220 shoes.^shoes/icons/ALDO1-1.jpg
+shoes/ALDO1-2.jpg^<b>Green/Blue</b> <br>This paper shoe is life-size, 10in x 5in. It will be part of a large installation of about 220 shoes.^shoes/icons/ALDO1-2.jpg
+shoes/ALDO1-3.jpg^<b>Green/Blue</b> <br>This paper shoe is life-size, 10in x 5in. It will be part of a large installation of about 220 shoes.^shoes/icons/ALDO1-3.jpg
+shoes/shoeScape1A.jpg^<b>Shoescape 1</b>, detail,    <br>Hot Lemonade,    <br>2in x 1.25in x .5in^shoes/icons/shoeScape1A.jpg
+shoes/shoeScape2.jpg^<b>Shoescape 1</b> - paper sculpture,    <br>10in x 20in x 1in,  $1200^shoes/icons/shoeScape2.jpg
+shoes/shoeScape3.jpg^<b>Shoescape 1</b>, detail,    <br>Orange Funk,    <br>1.5in x 1.25in x .5in^shoes/icons/shoeScape3.jpg
+shoes/shoeScape4.jpg^<b>Shoescape 1</b>, detail,    <br>Summer Breeze,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape4.jpg
+shoes/shoeScape5.jpg^<b>Shoescape 1</b>, detail,    <br>Orangina,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape5.jpg
+shoes/shoeScape6.jpg^<b>Shoescape 1</b>, detail,    <br>Sun Kiss,    <br>.7in x 1.25in x .5in^shoes/icons/shoeScape6.jpg
+shoes/shoeScape7.jpg^<b>Shoescape 2</b>, paper sculpture  -  9in x 20in x 1in,  $1000^shoes/icons/shoeScape7.jpg
+shoes/shoeScape8.jpg^<b>Shoescape 2</b>, detail,    <br>Red/Silver Attitude,    <br>1.5in x 1.25in x .5in^shoes/icons/shoeScape8.jpg
+shoes/shoeScape9.jpg^<b>Shoescape 2</b>, detail,    <br>Pretty in Pink,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape9.jpg
+shoes/shoeScape10.jpg^<b>Shoescape 2</b>, detail,    <br>Picnic,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape10.jpg
+shoes/shoeScape11.jpg^<b>Shoescape 2</b>, detail,    <br>Psychodelic,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape11.jpg
+shoes/shoeScape11a.jpg^<b>Shoescape 2</b>, detail	Hot Pink Cool Blue1in x 1.25in x .5in^shoes/icons/shoeScape11a.jpg
+shoes/shoeScape12.jpg^<b>Shoescape 3</b>, paper sculpture	-  9in x 20in x 1in,  $1200^shoes/icons/shoeScape12.jpg
+shoes/shoeScape13.jpg^<b>Shoescape 3</b>, detail,    <br>Ice,    <br>1.5in x 1.25in x .5in^shoes/icons/shoeScape13.jpg
+shoes/shoeScape14.jpg^<b>Shoescape 3</b>, detail,    <br>Ice,    <br>1.5in x 1.25in x .5in^shoes/icons/shoeScape14.jpg
+shoes/shoeScape15.jpg^<b>Shoescape 3</b>, detail,    <br>Icy Wedge,    <br>.7in x 1.25in x .5in^shoes/icons/shoeScape15.jpg
+shoes/shoeScape16.jpg^<b>Shoescape 3</b>, detail,    <br>Icy Wedge,    <br>.7in x 1.25in x .5in^shoes/icons/shoeScape16.jpg
+shoes/shoeScape17.jpg^<b>Shoescape 3</b>, detail,    <br>Silver Moon,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape17.jpg
+shoes/shoeScape18.jpg^<b>Shoescape 3</b>, detail,    <br>Silver Moon,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape18.jpg
+shoes/shoeScape19.jpg^<b>Shoescape 3</b>, detail,    <br>Golden Sun,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape19.jpg
+shoes/shoeScape20.jpg^<b>Shoescape 3</b>, detail,    <br>Kickass,    <br>1.5in x 1.25in x .5in^shoes/icons/shoeScape20.jpg
+shoes/shoeScape21.jpg^<b>Shoescape 4</b>, paper sculpture  -  10in x 20in x 1in,  $1000^shoes/icons/shoeScape21.jpg
+shoes/shoeScape22.jpg^<b>Shoescape 4</b>, detail,    <br>Baby Blue,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape22.jpg
+shoes/shoeScape23.jpg^<b>Shoescape 4</b>, detail,    <br>Midnight Blue,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape23.jpg
+shoes/shoeScape24.jpg^<b>Shoescape 4</b>, detail,    <br>Black and Blue,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape24.jpg
+shoes/shoeScape25.jpg^<b>Shoescape 4</b>, detail,    <br>East Village Envy,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape25.jpg
+shoes/shoeScape26.jpg^<b>Shoescape 4</b>, detail,    <br>Blue Wheel,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape26.jpg
+shoes/shoeScape27.jpg^<b>Black & White</b>,<br>individual shoe, paper sculpture,    <br>1in x 1.25in x .5in, $200 each,  unframed^shoes/icons/shoeScape27.jpg
+shoes/shoeScape28.jpg^<b>Black & White</b>, individual shoe, paper sculpture,    <br>1in x 1.25in x .5in, $200 each,  unframed^shoes/icons/shoeScape28.jpg
+shoes/makingShoes.jpg^<b>Making Paper Shoes</b><br>It brings me a lot of pleasure to make these miniature paper sculptures^shoes/icons/makingShoes.jpg
+shoes/Cinderellas1.jpg^<b>A Hundred Cinderellas</b>, side view,  paper sculpture,<br>6in x 36in x 6in,  sold^shoes/icons/Cinderellas1.jpg
+shoes/Cinderellas2.jpg^<b>A Hundred Cinderellas</b>  -  paper sculpture,  6in x 36in x 6in,  sold^shoes/icons/Cinderellas2.jpg
+shoes/Cinderellas3.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas3.jpg
+shoes/Cinderellas4.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas4.jpg
+shoes/Cinderellas5.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas5.jpg
+shoes/Cinderellas6.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas6.jpg
+shoes/Cinderellas7.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas7.jpg
+shoes/Cinderellas8.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas8.jpg
+shoes/Cinderellas9.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas9.jpg
+shoes/Cinderellas10.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas10.jpg
+shoes/Cinderellas11.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas11.jpg
+shoes/Cinderellas12.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas12.jpg
+shoes/Cinderellas13.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas13.jpg
+shoes/Cinderellas14.jpg^<b>A Hundred Cinderellas</b>, detail,    <br> each paper shoe is 1in x 1.25in x .5in^shoes/icons/Cinderellas14.jpg
+shoes/heavens1.jpg^<b>Heavens</b> - paper sculpture,  12 panels of 8.5in x 11in,  $1800^shoes/icons/heavens1.jpg
+shoes/heavens2.jpg^<b>Heavens</b>, detail,    <br>paper sculpture, 8.5in x 11in^shoes/icons/heavens2.jpg
+shoes/getTheHell1.jpg^<b>Get The Hell Out Of My Way, I Am On A Spiritual Path</b> - paper sculpture installation, 60in x 5in x 1in^shoes/icons/getTheHell1.jpg
+shoes/getTheHell2.jpg^<b>Get The Hell Out<br>Of My Way</b>, detail,    <br>one of 20 mini tableaux^shoes/icons/getTheHell2.jpg
+shoes/getTheHell3.jpg^<b>Get The Hell Out<br>Of My Way</b>, detail,    <br>one of 20 mini tableaux^shoes/icons/getTheHell3.jpg
+shoes/getTheHell4.jpg^<b>Get The Hell Out<br>Of My Way</b>, detail,    <br>one of 20 mini tableaux^shoes/icons/getTheHell4.jpg
+shoes/shoeScape22a.jpg^<b>Shoescape 4</b>, detail,    <br>Baby Blue,    <br>1in x 1.25in x .5in^shoes/icons/shoeScape22a.jpg
